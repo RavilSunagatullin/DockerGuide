@@ -1,0 +1,11 @@
+{
+  "name": "docker-node-demo",
+  "version": "1.0.0",
+  "description": "Minimal Express app for Docker demo",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
